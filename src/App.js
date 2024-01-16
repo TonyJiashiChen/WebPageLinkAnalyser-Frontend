@@ -36,7 +36,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Webpage Link Analyzer</h1>
+      <h1>Webpage Link Analyser</h1>
       <input
         type="text"
         placeholder="Enter URL"
